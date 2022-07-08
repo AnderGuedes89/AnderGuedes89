@@ -1,7 +1,7 @@
 ## Olá! 👋
 
-Meu nome é Anderson Guedes, sou um desenvolvedor web na cidade de Araras/SP.
-Atualmente estou aperfeiçoando os conhecimentos em Angular e TypeScript, além de aprendendo Node.js, NestJS e Docker.<br>
+Meu nome é Anderson Guedes, sou Engenheiro de Software Front-End na cidade de Araras/SP.
+Atualmente estou aperfeiçoando os conhecimentos em Angular e TypeScript, além de aprendendo React e NestJS<br>
 Você pode me encontrar no [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2867b2)][1] ou no [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2 )][2].
 
 ## Tecnologias & Ferramentas
@@ -9,8 +9,8 @@ Você pode me encontrar no [![](https://img.shields.io/badge/LinkedIn-informatio
 
 ## Estatísticas no GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderGuedes89&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderGuedes89&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonguedesmg&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonguedesmg&layout=compact&theme=dark)
 
 <!-- Social Media -->
 [1]: https://www.linkedin.com/in/anderson-guedes-mg
